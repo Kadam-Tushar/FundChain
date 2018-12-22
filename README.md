@@ -65,6 +65,28 @@ A step by step series to add and setup of Metamask extension on Google Chrome:
 Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28)
  </code></pre>
 
+
+------------------------------------------
+### Contributing
+
+ We're are open to `enhancements` & `bug-fixes` :smile: Also do have a look [here](./CONTRIBUTING.md)
+
+### Note
+
+- This project was done under `24 hours with minimal pre-preparation`
+
+------------------------------------------
+### Contributors
+
+- [@sangramdesai123](https://github.com/sangramdesai123)
+- [@Kadam-Tushar](https://github.com/Kadam-Tushar)
+- [@chheda-r](https://github.com/chheda-r)
+
+------------------------------------------
+### Recognition
+
+This repository / project was a part of [@BlockchainHackathon](https://github.com/XinFinOrg/Open-Hackathon/issues/68) 2018
+
 ### Home Page
 
 ![home page](https://github.com/Kadam-Tushar/FundChain/blob/master/image/homepage.JPG)
@@ -112,7 +134,3 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 ![CreateRequest](https://github.com/Kadam-Tushar/FundChain/blob/master/image/createRequest.JPG)
 
 </p>
-
-
-## Running the website
-
