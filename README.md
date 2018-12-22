@@ -70,9 +70,9 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 ### Ad Campaign
 
 <p>
-![create ad](https://github.com/Kadam-Tushar/FundChain/blob/master/image/create ad.JPG)
+![create ad](https://github.com/Kadam-Tushar/FundChain/blob/master/image/create%20ad.JPG)
    
-![metamask](https://github.com/Kadam-Tushar/FundChain/blob/master/image/meta mask.JPG)
+![metamask](https://github.com/Kadam-Tushar/FundChain/blob/master/image/meta%20mask.JPG)
 
 ![Transaction](https://github.com/Kadam-Tushar/FundChain/blob/master/image/Capture2.JPG) 
 </p>
