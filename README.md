@@ -2,9 +2,8 @@
   <a href="" rel="noopener">
  <img width=300px src="./image/logo.png" alt="Fundchain-logo"></a>
 </p>
-------------------------------------------
 
-# FundChain
+
 A block-chain based startup funding website for Global BlockChain Hackathon using
 ------------------------------------------
 
