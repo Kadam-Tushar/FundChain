@@ -1,5 +1,5 @@
 # FundChain
-
+------------------------------------------
 A block-chain based startup funding website for Global BlockChain Hackathon using
 <pre><code>
 1. node
@@ -20,13 +20,14 @@ A block-chain based startup funding website for Global BlockChain Hackathon usin
 4. metamask extension
  </code></pre>
  
+ ------------------------------------------
 ## Getting Started
 
 **Startup Manager** : The Startup Manager post an advertisement for fund sourcing, sets the minimum contribution for a campaign, sends requests for spending the money recieved as contribution and finalize the request if majority of contributers approve.
 
 **Contributer** : The Contributer contributes money to the a campaign and decides to send an approval to a request.
 
-
+------------------------------------------
 ### Prerequisites
 <pre><code>
 What things you need to install the software and how to install them
@@ -37,7 +38,8 @@ What things you need to install the software and how to install them
 As you install node, npm is installed too.
  </code></pre>
  
- ### Installing
+------------------------------------------
+### Installation
  <pre><code>
 A step by step series to installing NODE.js:
  
