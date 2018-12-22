@@ -112,3 +112,9 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 ![CreateRequest](https://github.com/Kadam-Tushar/FundChain/blob/master/image/createRequest.JPG)
 
 </p>
+
+
+## Running the website
+
+Step-1 :
+Deploy the contract by command _'node deploy.js'_
