@@ -1,6 +1,13 @@
 # FundChain
-------------------------------------------
 A block-chain based startup funding website for Global BlockChain Hackathon using
+
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=300px src="./images/logo.png" alt="Fundchain-logo"></a>
+</p>
+------------------------------------------
+
 <pre><code>
 1. node
 2. npm
