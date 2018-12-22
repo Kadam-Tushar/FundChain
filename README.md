@@ -65,4 +65,4 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 
 ### Home Page
 
-![home page]()
+![home page](https://octodex.github.com/Kadam-Tushar/FundChain/image/homepage.jpg)
