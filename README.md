@@ -57,3 +57,7 @@ What things you need to install the software and how to install them
  11. npm install truffle-hdwallet-provider@0.0.3
  12. npm install web3@1.0.0-beta.26
  </code></pre>
+
+### Home Page
+
+![home page]()
