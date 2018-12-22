@@ -118,3 +118,6 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 
 Step-1 :
 Deploy the contract by command _'node deploy.js'_
+
+Step-2 :
+
