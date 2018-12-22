@@ -1,11 +1,11 @@
-# FundChain
-A block-chain based startup funding website for Global BlockChain Hackathon using
-
-
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./images/logo.png" alt="Fundchain-logo"></a>
+ <img width=300px src="./image/logo.png" alt="Fundchain-logo"></a>
 </p>
+------------------------------------------
+
+# FundChain
+A block-chain based startup funding website for Global BlockChain Hackathon using
 ------------------------------------------
 
 <pre><code>
@@ -77,6 +77,7 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 ### Contributing
 
  We're are open to `enhancements` & `bug-fixes` :smile: Also do have a look [here](./CONTRIBUTING.md)
+ 
 
 ### Note
 
@@ -93,6 +94,8 @@ Link : [https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28](htt
 ### Recognition
 
 This repository / project was a part of [@BlockchainHackathon](https://github.com/XinFinOrg/Open-Hackathon/issues/68) 2018
+
+------------------------------------------
 
 ### Home Page
 
