@@ -1,0 +1,19 @@
+{
+  "name": "fundchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "css-loader": "^2.0.2",
+    "next": "^4.1.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
