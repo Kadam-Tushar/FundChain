@@ -29,11 +29,26 @@ A block-chain based startup funding website for Global BlockChain Hackathon usin
  ------------------------------------------
 ## Getting Started
 
-**Startup Manager** : The Startup Manager post an advertisement for fund sourcing, sets the minimum contribution for a campaign, sends requests for spending the money recieved as contribution and finalize the request if majority of contributers approve.
+**Startup Manager** : The Startup Manager posts an advertisement for fund sourcing, sets the minimum contribution for a campaign, sends requests for spending the money recieved as contribution and finalize the request if majority of contributers approve.
 
 **Contributer** : The Contributer contributes money to the a campaign and decides to send an approval to a request.
 
 ------------------------------------------
+## **Roll of BlockChain** :
+  As we know using blockchain we can create contracts that no one can tamper (i.e **High Security**) so using this fact we tried to create a website where every transaction can happen on blockchain.
+  
+  
+  What usually happens in any funding websites like [KickStarter](https://www.kickstarter.com) is some fruad user takes money from investors and never returns back  or that fraud user do not use that money for the project.So to solve that problem we made a website in which we created a system where investor will donate money for some project but that money won't be directly transfered to users account but rather it will be present in system and user will have to send request for that money (**RFM : Request for Money**) . Request will contain amount of money and for what pupose that money is going to be used. Now if this requset is approved in majority by investors (**Voting**) his money will be directly transfered to vendor's account and now vendor will transfer whatever project requires to user physically. Here because there is no connection between start-up guy and vendor (They don't know each other) hence they can not con investor. Every transaction will be written on blockchain hence there will be always proof of work .
+  
+  
+  
+
+
+
+
+
+
+
 ### Prerequisites
 <pre><code>
 What things you need to install the software and how to install them
