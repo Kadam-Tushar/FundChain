@@ -40,7 +40,7 @@ A block-chain based startup funding website for Global BlockChain Hackathon usin
   
   What usually happens in any funding websites like [KickStarter](https://www.kickstarter.com) is some fruad user takes money from investors and never returns back  or that fraud user do not use that money for the project.So to solve that problem we made a website in which we created a system where investor will donate money for some project but that money won't be directly transfered to users account but rather it will be present in system and user will have to send request for that money (**RFM : Request for Money**) . Request will contain amount of money and for what pupose that money is going to be used. Now if this requset is approved in majority by investors (**Voting**) his money will be directly transfered to vendor's account and now vendor will transfer whatever project requires to user physically. Here because there is no connection between start-up guy and vendor (They don't know each other) hence they can not con investor. Every transaction will be written on blockchain hence there will be always proof of work .
   
-  
+![diag](https://github.com/Kadam-Tushar/FundChain/blob/master/diag_FundChain.png)  
   
 
 
